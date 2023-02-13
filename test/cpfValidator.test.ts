@@ -1,4 +1,4 @@
-import { validateCpf } from "../src/cpfValidator";
+import { validateCpf } from "../src/domain/entity/cpfValidator";
 
 const validCpfData = [
     { cpf: "19022574059" },
